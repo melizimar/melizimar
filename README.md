@@ -1,21 +1,21 @@
 # Olá, eu sou Matheus 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Analista de Suporte na Smartspace.
-Estou aprendendo sobre Rust e tenho como minha linguagem principal e estou explorando a biblioteca DataFusion para manipulação de CSVs. 
+Estou aprendendo sobre Rust e Java e tenho como Rust como minha linguagem principal. 
 Adoro aprender e compartilhar conhecimento com a comunidade!
 
 ## Sobre Mim
 
-- 🌱 Atualmente, estou aprendendo mais sobre BigData.
-- 👯 Estou aberto a colaborar em projetos relacionados a Rust.
+- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web.
+- 👯 Estou aberto a colaborar em projetos relacionados a Rust, JavaScript, Python.
 - 💬 Você pode me perguntar sobre Arquitetura de Software.
 - 📫 Como me encontrar: melizimar@gmail.com.
 
 ## Tecnologias e Ferramentas
 
-- Linguagens: Rust, JavaScript, Python e PHP.
+- Linguagens: Rust, Java, JavaScript, Python e PHP.
 - Ferramentas: Git, Docker, Postman.
-- Bibliotecas: DataFusion, Polars.
+- Bancos de dados: Postgres, Oracle e MySQL.
 
 ## Contribuições e Colaborações
 
